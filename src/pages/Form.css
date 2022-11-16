@@ -1,0 +1,9 @@
+.text-center {
+    background-color: yellowgreen;
+    font-size: x-large;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bg-light {
+    background-color: yellowgreen;
+}
